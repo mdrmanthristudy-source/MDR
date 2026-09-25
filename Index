@@ -186,7 +186,7 @@
   </div>
 
   <script>
-    const SCRIPT_URL = "PASTE_YOUR_APPS_SCRIPT_WEB_APP_URL_HERE";
+    const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyhtP9_PyH0HgIcZronlULalYbvXlDh1up0oBhuSI_XoN9cC_GXYnGzxeypjS_cwF_p/exec";
 
     async function callAPI(action, payload = {}) {
       payload.action = action;
